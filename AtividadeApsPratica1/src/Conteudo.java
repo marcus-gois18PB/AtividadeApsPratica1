@@ -17,6 +17,8 @@ public abstract class Conteudo implements Reproduzivel {
 
      public boolean verificardiponibilidade(Regiao regiao){
 
-     }
+         return false;
+     }public void reproduzir(){
 
+    }
  }
