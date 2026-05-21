@@ -1,6 +1,6 @@
 public enum StatusDisponilibilidade {
-DISPONIVEL,
-INDISPONIVEL,
-CANCELADA,
-  HIATO
+    DISPONIVEL,
+    INDISPONIVEL,
+    LICENCA_expirada
+
 }
